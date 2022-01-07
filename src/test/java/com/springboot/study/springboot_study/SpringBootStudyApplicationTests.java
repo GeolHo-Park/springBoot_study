@@ -11,7 +11,7 @@ class SpringBootStudyApplicationTests {
     void contextLoads() {
         int a = 1;
         int b = 2;
-        Assertions.assertEquals(3, a+b);
+        Assertions.assertEquals(4, a+b); //false
     }
 
 }
